@@ -1,0 +1,12 @@
+// Knex
+Knex libary is used to facility manipulation from db by migrates.
+The migrates are interactions from your db like create table, drops, updates etc...
+The first command you may understand is make, where your migrations are create in the project.
+The second ones is command latest, where will exceute your previously create in your migrates files, to create your
+tables if the parameters you choose.
+The third one is the command rollback, this are called to rollback your migration to a previously version. 
+
+// Cosign
+
+Cosign is a libary to build a dependency three, where the objects used in your request are allign and create all dependencies you build to work the application
+
